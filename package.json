@@ -1,5 +1,5 @@
 {
-  "name": "react_course_js_ru_08_06_17",
+  "name": "lesson1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -37,14 +37,14 @@
     "immutable": "^3.8.1",
     "prop-types": "^15.5.10",
     "react": "^15.5.0",
-    "react-day-picker": "^6.0.3",
+    "react-day-picker": "^6.1.0",
     "react-dom": "^15.5.0",
     "react-redux": "^5.0.5",
-    "react-router-dom": "^4.1.1",
+    "react-router-dom": "^4.1.2",
     "react-router-redux": "^5.0.0-alpha.6",
     "react-select": "^1.0.0-rc.5",
     "react-transition-group": "^1.2.0",
-    "redux": "^3.7.0",
+    "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1"
   }
